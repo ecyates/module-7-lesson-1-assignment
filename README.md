@@ -13,16 +13,16 @@ Create a recipe for "Classic Chocolate Chip Cookies" with a header and a short p
 
 Ingredients:
 
-1 cup (2 sticks) unsalted butter, softened
-3/4 cup granulated sugar
-3/4 cup packed brown sugar
-1 teaspoon vanilla extract
-2 large eggs
-2 1/4 cups all-purpose flour
-1 teaspoon baking soda
-1/2 teaspoon salt
-2 cups semisweet chocolate chips
-1 cup chopped nuts (optional)
+- 1 cup (2 sticks) unsalted butter, softened
+- 3/4 cup granulated sugar
+- 3/4 cup packed brown sugar
+- 1 teaspoon vanilla extract
+- 2 large eggs
+- 2 1/4 cups all-purpose flour
+- 1 teaspoon baking soda
+- 1/2 teaspoon salt
+- 2 cups semisweet chocolate chips
+- 1 cup chopped nuts (optional)
 
 Steps:
 
@@ -33,7 +33,7 @@ Steps:
 5. Stir in the chocolate chips and chopped nuts (if using) until evenly distributed throughout the dough.
 6. Drop rounded tablespoons of dough onto the prepared baking sheets, spacing them about 2 inches apart.
 7. Bake in the preheated oven for 9 to 11 minutes, or until the edges are golden brown.
-8 . Remove from the oven and allow the cookies to cool on the baking sheets for a few minutes before transferring them to wire racks to cool completely.
+8. Remove from the oven and allow the cookies to cool on the baking sheets for a few minutes before transferring them to wire racks to cool completely.
 
 - **Expected Outcome**: Recreate the recipe using copied information, ensuring to use of appropriate HTML tags for headers, paragraphs, lists, and list items to structure the content correctly In your HTML document. 
 
